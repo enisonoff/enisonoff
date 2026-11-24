@@ -1,0 +1,40 @@
+# Video rules (everything Elena has asked for, in one place)
+
+Add to this file whenever she gives a note that applies beyond one video.
+
+## Process
+- Plan, then storyboard, then render. Never render before she says go; if she says "wait" or "storyboard first", stop.
+- Re-storyboard after notes. A low-quality preview before the full render is welcome.
+- Check every render for flashes and sync before sending (edit-video skill, `check_render.py`).
+- Don't cut her words unless she asks.
+
+## Frame and placement
+- Safe zone: nothing important above y≈250 or below y≈1560 (of 1920).
+- Never cover her face. Graphics go in the wall space above her head or to the side with more room; check which side has more wall in that shot.
+- Photos can tuck *just* behind her head for dimension (her hair over the photo edge), not deep behind it.
+- Center text on everything (posters, Venn names, chart titles).
+- Photos straight, no frames or white outlines. No white cards behind text on her shot.
+
+## Style that worked (Jensen winners & losers, Nov 2026)
+- On-camera posters: Instrument Serif italic lead-in + tall Anton caps in blue (#1646FF), tight line spacing, centered, words revealing one at a time with a blur-in (like @nextbysophie and @romina.aminian reels).
+- Full-screen cutaways on a light dot-grid "whiteboard" (like @poojaduttttt) for the Venn, charts, headline clippings and timelines. Captions there are black with a lime (#D4F542) highlight; on her shot they're white with one yellow word.
+- People as centered face bubbles (whole face, hair to chin), companies as logos, groups as icons (lawyers = scales of justice).
+- Charts: one simple XY chart with labeled lines beats bars for comparisons; label dates on records.
+- Headline clippings: outlet + date, lime highlight on 1-3 key words, always a sourced headline.
+- Humor beats she liked: the clone pile-up, Jensen on a billion-dollar bill, "this is fine" next to Kress, the Truth Social post full screen.
+
+## Style that worked (SpaceX chip loan)
+- Full-frame cutaways inspired by Cleo Abrams: a space render the camera races across following a beam of light; a chatbot question that becomes a ball of energy flying to a space data center; a GPU rack that builds until "$44B" pops on top.
+- No white cards, no logos-on-cards, no push-in/zoom transitions, no Starship drawing.
+
+## Sound
+- Subtle clicks only, varied, well under her voice. No whooshes. Nothing on cuts back to her.
+
+## Things she didn't like
+- Busy edits (too many graphics); graphics that just restate her words.
+- Plain sans lead-ins ("not stylish"); outlines on text; serif headlines on the carousel.
+- Flashes of her face between two graphics; audio drifting out of sync.
+- "For you" advice endings in scripts.
+
+## Fonts for the next video
+Try the CapCut-style trio: Gloock caps + Great Vibes script + DM Mono small line (Google Fonts). Show 2 frames on her footage before using it.
