@@ -29,6 +29,8 @@ What we've learned from studying reels Elena liked, and formats worth testing. A
 - **Don't open with "part 2" / "lesson 2 of 8."** It tells new viewers they're mid-show; her lesson 2 was her lowest reel. Mention the series at the end. (@matildehere)
 - **Withheld-answer hook, then delay the payoff:** "There are two very simple words I use to decide if something is worth posting." Names a count, hides the answer for 24 s, teases the *second* answer with proof (a stats screenshot) before revealing the first, so viewers stay for both. Each reveal: label, one-line definition, the feeling it creates, the result. Close with a one-line tool ("use this filter"). Caption: "ep. 1", ask what they want in ep. 2. (@elliewfrazier, 74 s, ~5.8K likes)
 - **Characters and tension, no advice endings.** (Elena's own rule; see CLAUDE.md.)
+- **No "three reasons" lists.** Elena finds numbered lists flat. Tell it as scenes (the party, the hangover, the twist) with one open loop planted in the first 5 s, teased mid-way, paid off with a callback to the hook.
+- **Hook she picked (Nov 2026):** withheld person, "There's one person who ___. It's not [the obvious one]." 
 
 ## Editing / visual learnings
 
