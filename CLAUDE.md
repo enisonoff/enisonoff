@@ -6,6 +6,7 @@ Claude helps with research and scripts, video edits, carousels, and breakdowns o
 | File | What's in it |
 |---|---|
 | `context/video-rules.md` | Every editing rule and style note she has given, plus what worked |
+| `context/learnings.md` | What we learned from other creators' videos, and video types to try. Add to it after every breakdown |
 | `.claude/skills/edit-video/` | The step-by-step reel edit process, helper scripts, and the code from approved edits |
 
 ## How we work
