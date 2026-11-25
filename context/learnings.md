@@ -40,6 +40,17 @@ What we've learned from studying reels Elena liked, and formats worth testing. A
 - **Cover text in one plain bold font,** lowercase, phrased as a relatable line ("when u take two days off from the news..."). (@databutmakeitfashion)
 - **Font trio to try:** Gloock caps + Great Vibes script + DM Mono small line (CapCut-style).
 
+## @zauey.talks (closest to Elena's format), last ~2 months, pulled Nov 2026
+Median ~106K views. Top: Nobel chemistry explained 2.46M, "70% of websites are vulnerable" 1.68M, "What exactly is Nvidia?" 1.2M, Nobel optogenetics 587K, "Who is Nvidia's biggest challenger" 356K. Bottom: Ring security robot 33K, "why the internet kept breaking" 60K.
+- **Explain the thing underneath the headline.** During the Jensen scandal her hits were "what is Nvidia? (in 3 minutes)" and "what is AMD? (in 2 minutes)", not the drama. A beginner-friendly explainer of the company/tech everyone's suddenly hearing about travels far beyond followers.
+- **Title card = plain question + time promise:** big lowercase white sans, 2 lines, with a small subtitle: "what is nvidia? (in 3 minutes)", "nobel prize chemistry *explained*". Sits low on her chest, on screen for the first several seconds.
+- **First frame shows proof:** a headline screenshot card under the title on news-y ones (Nobel, PHP bug).
+- **Stakes in a number:** "70% of the world's websites", "the last 72 hours have been absolutely insane".
+- **One household analogy carries the explainer:** CPU = a few expert chefs, GPU = a thousand line cooks who only chop onions. Drawn as simple illustrated cards.
+- **Visual changes every ~3 s:** paper-style cards, teal diagram panels, product photos, logos; small word-by-word captions at the top with one yellow word.
+- **Product launches and incremental news underperform** (Ring robot, outages follow-up).
+- Same setup as Elena: seated, one take, lav mic, 2-3 min, emoji-bullet captions. So the difference is topic choice + framing + visuals, not length or format.
+
 ## Numbers to remember
 - @matildehere, last 30 days (Nov 2026): silent table 461K, list 172K, puzzle 19K, talking explainers 7-14K. Hits had very low like/view ratios (~0.4%), so reach came from saves/shares.
 - @morningbrew Jensen explainer: ~20K likes, 85 s.
