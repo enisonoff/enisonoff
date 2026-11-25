@@ -27,6 +27,7 @@ What we've learned from studying reels Elena liked, and formats worth testing. A
 - **Plant an open loop early, close it at the end.** "This story might be the first of many" at 0:06, paid off at 1:05. End on a callback, not a summary. (@morningbrew)
 - **Hook types that work for explainers:** a concrete dollar figure ("$1,000 in a bank 5 years ago is worth $800 today"), a contrarian question ("what's more risky, cash or stocks? If you said stocks, you're mostly wrong"), a time promise ("it only takes two minutes"). (@matildehere)
 - **Don't open with "part 2" / "lesson 2 of 8."** It tells new viewers they're mid-show; her lesson 2 was her lowest reel. Mention the series at the end. (@matildehere)
+- **Withheld-answer hook, then delay the payoff:** "There are two very simple words I use to decide if something is worth posting." Names a count, hides the answer for 24 s, teases the *second* answer with proof (a stats screenshot) before revealing the first, so viewers stay for both. Each reveal: label, one-line definition, the feeling it creates, the result. Close with a one-line tool ("use this filter"). Caption: "ep. 1", ask what they want in ep. 2. (@elliewfrazier, 74 s, ~5.8K likes)
 - **Characters and tension, no advice endings.** (Elena's own rule; see CLAUDE.md.)
 
 ## Editing / visual learnings
