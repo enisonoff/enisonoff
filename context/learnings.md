@@ -30,6 +30,7 @@ What we've learned from studying reels Elena liked, and formats worth testing. A
 - **Withheld-answer hook, then delay the payoff:** "There are two very simple words I use to decide if something is worth posting." Names a count, hides the answer for 24 s, teases the *second* answer with proof (a stats screenshot) before revealing the first, so viewers stay for both. Each reveal: label, one-line definition, the feeling it creates, the result. Close with a one-line tool ("use this filter"). Caption: "ep. 1", ask what they want in ep. 2. (@elliewfrazier, 74 s, ~5.8K likes)
 - **Characters and tension, no advice endings.** (Elena's own rule; see CLAUDE.md.)
 - **No "three reasons" lists.** Elena finds numbered lists flat. Tell it as scenes (the party, the hangover, the twist) with one open loop planted in the first 5 s, teased mid-way, paid off with a callback to the hook.
+- **Simple declarative sentences.** Short, plain, slightly provocative lines ("They didn't win either.") beat long explanatory ones on Instagram. Max ~4 numbers said out loud per video section; put the rest on screen or cut.
 - **Hook she picked (Nov 2026):** withheld person, "There's one person who ___. It's not [the obvious one]." 
 
 ## Editing / visual learnings

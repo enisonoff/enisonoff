@@ -18,6 +18,7 @@ Claude helps with research and scripts, video edits, carousels, and breakdowns o
 ## Writing
 - Avoid the word "real" and AI-sounding phrasing; never "It's not X, it's Y".
 - Scripts read like a movie with characters and tension; no "for you" advice endings.
+- Script sentences: short, simple, declarative, slightly provocative. One idea per sentence. This does better on Instagram.
 
 ## Repo
 - Branch `claude/newsjack-install-monitoring-s7dylc`. No PRs. Big media stays out of git.
