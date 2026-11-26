@@ -38,6 +38,7 @@ Add to this file whenever she gives a note that applies beyond one video.
 - Busy edits (too many graphics); graphics that just restate her words, including a full-screen text card of her key line (cut from the AI lenders video).
 - Plain sans lead-ins ("not stylish"); outlines on text; serif headlines on the carousel.
 - Flashes of her face between two graphics; audio drifting out of sync.
+- Moodboard-style extras piled together (torn copper paper, retro TV bezels, fluted glass, stat-row meters): too busy. Keep cutaways to one idea, a soft background, white type.
 - "For you" advice endings in scripts.
 
 ## Fonts for the next video
