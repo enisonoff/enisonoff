@@ -126,7 +126,7 @@ def chart_scene(t, values, xlabels, end_label, title, subtitle, draw=1.2):
         i = round(j * (len(values) - 1) / max(1, len(xlabels) - 1)); d.text((X(i) - 30, yb + 24), lab, font=font(38, 600), fill=GREY)
     if t >= draw:
         ex, ey = X(len(values) - 1), Y(values[-1])
-        d.ellipse([ex - 12, ey - 12, ex + 12, ey + 12], fill=(255, 255, 255)); d.text((ex - 150, ey + 30), end_label, font=font(64), fill=WHITE)
+        d.ellipse([ex - 12, ey - 12, ex + 12, ey + 12], fill=(255, 255, 255)); d.text((ex - d.textlength(end_label, font=font(64)) - 30, ey + 30), end_label, font=font(64), fill=WHITE)
     return im
 
 # ---------- captions ----------
