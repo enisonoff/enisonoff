@@ -7,6 +7,7 @@ Add to this file whenever she gives a note that applies beyond one video.
 - Re-storyboard after notes. A low-quality preview before the full render is welcome.
 - Check every render for flashes and sync before sending (edit-video skill, `check_render.py`).
 - Don't cut her words unless she asks.
+- Cold open: if her best line moves to the top as the hook, don't play it again at the end. End on the line before it.
 
 ## Frame and placement
 - Safe zone: nothing important above y≈250 or below y≈1560 (of 1920).
