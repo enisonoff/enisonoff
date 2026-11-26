@@ -8,6 +8,7 @@ Claude helps with research and scripts, video edits, carousels, and breakdowns o
 | `context/video-rules.md` | Every editing rule and style note she has given, plus what worked |
 | `context/learnings.md` | What we learned from other creators' videos, and video types to try. Add to it after every breakdown |
 | `.claude/skills/edit-video/` | The step-by-step reel edit process, helper scripts, and the code from approved edits |
+| `.claude/skills/bloomberg-style/` | Her favorite look (Bloomberg Business timeline reel): spec + `neon.py` building blocks |
 
 ## How we work
 1. Plan, then storyboard, then render. Wait for her OK at each step.

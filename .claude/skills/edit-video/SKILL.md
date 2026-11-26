@@ -44,6 +44,8 @@ Every number, quote and headline on screen needs a source found this session. Se
 - Before sending ANY render: `scripts/check_render.py render.mp4 raw.mp4 <out:src pairs>` -> short flashes must be `[]`, sync offsets 0 or ±0.033. Also pull a frame sheet and look at it.
 
 ## Building blocks (see `reference/`)
+Default cutaway look: the `bloomberg-style` skill (neon timeline, glowing charts). The pieces below are the earlier whiteboard look.
+
 `reference/renderE.py` is the final Jensen edit (it execs `sbE.py` -> `renderD.py` -> `sbD.py` -> ... for helpers; fix the hardcoded scratchpad paths at the top of each before reuse). Pieces worth reusing:
 - `poster_at` / `word_plan`: centered two-font posters above her head (Instrument Serif italic lead-in + tall Anton caps in blue), words landing one at a time with a blur-in.
 - `venn_faces` + `circle_face`: the winners/losers Venn with centered face bubbles (head found via the narrowest "neck" row of the cutout), logo chips for companies, icon/word chips for groups.
