@@ -32,7 +32,7 @@ Add to this file whenever she gives a note that applies beyond one video.
 - Subtle clicks only, varied, well under her voice. No whooshes. Nothing on cuts back to her.
 
 ## Things she didn't like
-- Busy edits (too many graphics); graphics that just restate her words.
+- Busy edits (too many graphics); graphics that just restate her words, including a full-screen text card of her key line (cut from the AI lenders video).
 - Plain sans lead-ins ("not stylish"); outlines on text; serif headlines on the carousel.
 - Flashes of her face between two graphics; audio drifting out of sync.
 - "For you" advice endings in scripts.
