@@ -54,6 +54,16 @@ Median ~106K views. Top: Nobel chemistry explained 2.46M, "70% of websites are v
 - **Product launches and incremental news underperform** (Ring robot, outages follow-up).
 - Same setup as Elena: seated, one take, lav mic, 2-3 min, emoji-bullet captions. So the difference is topic choice + framing + visuals, not length or format.
 
+## @bloombergbusiness "Jensen recap" reel (Nov 2026), the style Elena wants to use everywhere
+43 s, faceless narration, 841 likes. https://www.instagram.com/reel/DgLYL2By15M/
+- **One device carries the whole video:** a glowing cyan vertical timeline "spine" runs through every frame; the camera pans down it to each new stop. ~7 stops in 43 s, a new one every ~5 s.
+- **Each stop:** huge white date number (bold grotesk) left of the spine, a white dot on the spine with a dotted line out, month in bold white, 1-3 short lines of gray summary text.
+- **Media in neon frames:** photos/video desaturated to a blue-gray duotone inside a thin bright blue frame with a soft outer glow, slightly tilted, sliding in. Small "Credit: ___" under each.
+- **Background:** near-black navy with a vignette and faint falling streaks.
+- **Charts:** one glowing mint/cyan line on the dark background, gray $ gridlines, no boxes.
+- **Captions:** white, bold sans, sentence case, full phrase on 1-2 lines, lower third. No highlight box.
+- Opens on 4 s of live b-roll before the first timeline stop.
+
 ## Numbers to remember
 - @matildehere, last 30 days (Nov 2026): silent table 461K, list 172K, puzzle 19K, talking explainers 7-14K. Hits had very low like/view ratios (~0.4%), so reach came from saves/shares.
 - @morningbrew Jensen explainer: ~20K likes, 85 s.
