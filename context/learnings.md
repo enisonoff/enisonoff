@@ -15,6 +15,7 @@ What we've learned from studying reels Elena liked, and formats worth testing. A
 | **Collage carousel with video slides** | Clippings, photos and short clips layered; short paragraphs with *italic* and _underlined_ emphasis; ~half the slides move. | Feels editorial and makes people swipe. | @databutmakeitfashion |
 
 ### Ideas queued up
+- **Google's patent for a 24/7 AI TV channel starring you, with ads made for you** (404 Media, Nov 23 2026). Hook idea: "Google wants to make a TV channel where you're the main character. The ads are personalized too." Red-flag check: viewers already watch TV and YouTube (pass); one sentence (pass); it's a patent, not a product, so the payoff can't be "this is coming" (say "patents aren't products, but this one says the quiet part"). Need the patent number and filing text before scripting; 404's article is paywalled.
 - "Every time a big tech founder was pushed out and came back" (Jobs, Altman, Jensen): how long it took, what the stock did. Silent table format.
 - "How the biggest tech IPOs did in their first week" (ANT, Facebook, Uber...).
 - "Biggest one-day gains in stock market history."
