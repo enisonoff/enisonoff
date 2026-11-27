@@ -75,6 +75,17 @@ Median ~106K views. Top: Nobel chemistry explained 2.46M, "70% of websites are v
 - **Ending on a rule people repost:** "Never abandon your own foundation to be loved by someone else," over sunset silhouettes. The last line is the caption-able quote.
 - Same setup as Elena: seated, one take, dark top. The lift comes from the b-roll cutout layer and the study scans.
 
+## @harpercarrollai (AI explained), last 12 reels, pulled Nov 2026
+Median ~119K plays. Top: AI "memory" explainer 2.2M (Jun), "token minimizing, not tokenmaxxing" 1.9M (Oct 29, 4.3K comments), "should I still learn to code" 617K, 1M-followers thank-you 479K. Mac mini explainer 134K (369 comments; part 2 only 88K). Bottom: personal workflow/sponsored "I built a repurposing app" 40K, shout-out post 59K. Likes hidden on most recent posts.
+- **Credential + contrarian thesis + "let me explain," in the first 5 s:** "I'm a computer scientist for AI and I think the next big thing is token minimizing, not tokenmaxxing. Let me explain." Same on Mac minis: "Why are Mac minis all the rage? I'm a computer scientist who's been building these systems for over a decade. Let me explain."
+- **Name the trend in its own slang and flip it** (tokenmaxxing -> token minimizing). It reads as a take, so people argue in the comments (4.3K).
+- **Answer the question everyone is googling this week** (why is everyone buying Mac minis?). Opens on 2-3 stacked headline clippings with highlighted words, plus a small "Stanford-trained AI Scientist" label pointing at her.
+- **Whiteboard she draws on herself**, punch-in on the board while she points. Hand-drawn boxes: "Anthropic -> data center -> ChatGPT." Feels like a class, not a news segment.
+- **Location as a cut:** outdoor walk-and-talk for opinions, whiteboard for mechanics, kitchen/desk for personal. One location per video.
+- **Small serif or plain captions mid-frame, logos pop in by her hand** (Claude + ChatGPT icons) when she names companies.
+- **Part 2s underperform** (134K -> 88K). Sponsored/how-I-use-it and community posts are her lowest.
+- **Comment keyword CTA** on product posts ("Comment BUILD and I'll send it").
+
 ## Numbers to remember
 - @matildehere, last 30 days (Nov 2026): silent table 461K, list 172K, puzzle 19K, talking explainers 7-14K. Hits had very low like/view ratios (~0.4%), so reach came from saves/shares.
 - @morningbrew Jensen explainer: ~20K likes, 85 s.
