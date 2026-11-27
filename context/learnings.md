@@ -137,6 +137,14 @@ Our read (hypotheses until we see her retention graph):
   - **Weakest = abstract self-help with no hook person or event** (learning tips, the freestyle demo).
   - The "welcome" video is her biggest: a pinned intro that tells new viewers what the page is. Worth making for Elena.
 
+## Style refs: @usvchq (Palmer Luckey 132K likes; "most important photo in startup history" 32K) and @bybeacons (Jensen "coup" 16K), Nov 2026
+Elena's style + media references for the outage video.
+- **Faceless mini-documentary:** horizontal 16:9 archival footage, voiceover narration, a new shot about every 1 s (350-420 cuts in 80-110 s).
+- **Media = the actual people and events:** interview and stage clips of the subjects, news chyrons, old photos, money, logos, product shots, one explosion. Short clips of the subjects speaking their own line ("These Chinese models are excellent") between narration.
+- **Captions:** one small white word at a time, centered, no box. Occasional full black or white card with one short phrase ("And then", "in startup history").
+- **Scripts:** a cinematic one-line hook with a historical parallel ("America just got its Steve Jobs moment, except this time it was a coup"), named characters, one big number per beat ($43M, $122B), a stakes line to close ("whoever controls those chips controls who gets to AI").
+- **For Elena:** keep her on camera, but cut away to fast archival b-roll of the actual events for 1-2 s at a time on every named event/person; one-word captions over b-roll; play the subject's own voice where we have it (DNI testimony).
+
 ## Numbers to remember
 - @matildehere, last 30 days (Nov 2026): silent table 461K, list 172K, puzzle 19K, talking explainers 7-14K. Hits had very low like/view ratios (~0.4%), so reach came from saves/shares.
 - @morningbrew Jensen explainer: ~20K likes, 85 s.
