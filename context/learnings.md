@@ -148,3 +148,14 @@ Elena's style + media references for the outage video.
 ## Numbers to remember
 - @matildehere, last 30 days (Nov 2026): silent table 461K, list 172K, puzzle 19K, talking explainers 7-14K. Hits had very low like/view ratios (~0.4%), so reach came from saves/shares.
 - @morningbrew Jensen explainer: ~20K likes, 85 s.
+
+## @karina.repko: "AI edited reels" (sponsored, Compound), Nov 2026
+36 s, one static wide take, no jump cuts. 15.9k views, 715 likes, 1,435 comments (the comments come from the keyword CTA).
+- **Hook:** a fan of reel thumbnails arcs over her head behind the title "AI EDITED REELS", with a tiny subline "(so you think Claude can edit yours?)". Evidence on screen in the first second, and her face stays in frame.
+- **Motion from graphics, not cuts:** something new appears about every 2 s: big translucent cream words behind her ("100 videos", "half an hour", "in minutes"), app icons popping in one at a time, chat bubbles stacking up.
+- **Chat-bubble stack:** her notes to the AI ("make the captions bigger", "no, smaller", "why does it look so AI") pile up like a text thread. The process becomes a joke without any words from her.
+- **System UI as proof:** an iOS notification banner, a post preview card, an editor timeline. These read as "this happened".
+- **Captions split around her body:** the left half of the phrase sits at her left hip and the right half at her right.
+- **One practical gag:** a fireball in her hand on "a fireball".
+- **To borrow:** fan the evidence around her head (not a black card); pop logos in a row one at a time; quotes as notification banners or message bubbles (real quotes only, generic UI, no fake company app screens).
+- **Skip:** the keyword CTA (she doesn't want CTAs) and the split captions (her captions are the Classic bounce).
