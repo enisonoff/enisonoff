@@ -38,7 +38,9 @@ Add to this file whenever she gives a note that applies beyond one video.
 
 - Push-ins: quick 10-15% punch-in cuts on her face for emphasis lines only (thesis, dry beat, proof, button). Never as zoom transitions into graphics.
 
-- Emphasis words are lowercase (never all caps): clean grotesk (Inter Tight 600) in cream/white/red with a soft glow, paired with a thin italic serif line (Cormorant Garamond Light). Big words sit BEHIND her (cutout mask), never over her face.
+- Emphasis words are lowercase (never all caps). Approved combo (outage video, Nov 2026): **Anton lowercase** for the big word + **Great Vibes script** tucked above-left (white) and optionally below-right (red). Palette red (232,40,44) / white only. Big words sit BEHIND her (rembg mask, MinFilter(7)+blur(3) to kill halos), never over her face. Every line fits 960 px wide; script on footage gets a soft dark shadow.
+- Film grade on all her footage: background desaturated 35% and darkened via the mask, contrast 1.15, teal shadows + warm mids, matte blacks (0.045 + 0.93a), soft highlight glow, vignette, light grain. Code: `film_grade()` in the outage style script.
+- Cards: near-black grain background, same Anton + script combo. Split screens: panel on top, her (graded) on the bottom, thin red divider, subtitles just above the divider.
 - Grade her footage: darken/desaturate the wall, warm skin, contrast, vignette, grain. Black grain cards for thesis lines and lists.
 
 ## Title cards (older)
