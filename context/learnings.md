@@ -64,6 +64,17 @@ Median ~106K views. Top: Nobel chemistry explained 2.46M, "70% of websites are v
 - **Captions:** white, bold sans, sentence case, full phrase on 1-2 lines, lower third. No highlight box.
 - Opens on 4 s of live b-roll before the first timeline stop.
 
+## @maealicesuzuki "afraid of being uneducated" reel (Nov 2026)
+59 s, ~38K likes, 159 comments. Self-improvement, but the craft transfers.
+- **Hook = a contrarian rule that stings:** "You should be more afraid of being uneducated than being lonely." Then she names the reaction: "It sounds harsh, so let me explain." That buys the next 50 seconds.
+- **Proof as texture:** full-screen scans of the study itself (the table and the highlighted paragraph), with her as a small cutout in the corner. The page reads as evidence even if nobody reads it.
+- **Name the concept, give it a label:** "hedonic adaptation" and "mastery" pop on as little paper stickers. One jargon term per idea makes it feel smart and searchable.
+- **Picture-in-picture over b-roll:** for lists ("skills, degrees, experience"), each word gets its own aesthetic clip (desk, laptop, library, gym), with her as a cutout in the lower left still talking. A new visual every 1-2 s without losing her face.
+- **Captions on two levels:** small white sans word-by-word at chest height, plus a big white italic serif for the 1-3 key words ("so let me EXPLAIN", "on your OWN", "you already KNOW"), with small sparkle stars.
+- **One meme beat** (SpongeBob "hmmm") on the line about waiting for someone to figure it out for us.
+- **Ending on a rule people repost:** "Never abandon your own foundation to be loved by someone else," over sunset silhouettes. The last line is the caption-able quote.
+- Same setup as Elena: seated, one take, dark top. The lift comes from the b-roll cutout layer and the study scans.
+
 ## Numbers to remember
 - @matildehere, last 30 days (Nov 2026): silent table 461K, list 172K, puzzle 19K, talking explainers 7-14K. Hits had very low like/view ratios (~0.4%), so reach came from saves/shares.
 - @morningbrew Jensen explainer: ~20K likes, 85 s.
