@@ -126,6 +126,16 @@ Our read (hypotheses until we see her retention graph):
 - **Her cutout stays on screen in front of a full-bleed mood image** that changes with every item (fire for limerence, a crowd for sonder, rain-soaked forest for petrichor). The background changes every ~5 s and her face never leaves. A dictionary card (the word as a headline, the definition, one phrase highlighted yellow) sits at chest height; small bold captions sit below.
 - Calm, even delivery with expressive hands. No jokes needed; the images carry the mood.
 - **For Elena:** (1) keep her cutout in front of the evidence and backdrops on list beats instead of cutting away; (2) a dictionary card for jargon (zero-day, patch, pre-positioning); (3) bookend: the last line answers the first; (4) series idea: "tech words you'll hear this year and what they mean," rotating backdrops.
+- **Her last 12 reels (pulled Nov 27):** median ~131K plays. Top: "welcome" intro video 1.26M (Cambridge student, "if you're seeing this, the algorithm thinks you're curious"), time-management trick 314K, "AI just solved the Riemann hypothesis?" 222K, "40 days left in 2026, how to get smart again" 187K, "do you have a type?" (mere exposure effect) 141K. Bottom: freestyle-rap brain training 62K, the vocab-list reel 73K, "how to learn so you never forget" 81K.
+- **Patterns across her hits:**
+  - **Credential in the first 10 s, every time:** "I'm a Cambridge student and curiosity researcher." Specific, one line.
+  - **She opens with the viewer's own experience or a deadline:** "some people date the same person in different fonts," "there are only 40 days left in 2026," "people ask how I have time." Then the concept.
+  - **A named concept + a year + a researcher** gives authority fast ("in 1968 a psychologist discovered the mere exposure effect").
+  - **News explainers work for her too:** the Riemann/AI video opened on a Scientific American X post screenshot held at chest height, with "what is the Riemann Hypothesis?" as the title. Explain-the-thing-underneath again (zauey).
+  - **Title text in small bold lowercase at the top or chest, phrased as a question** ("do you have a 'type'??", "using rap to train your brain??"). Captions are small, white, centered, phrase by phrase.
+  - **Props and outfits as visual variety:** a book, a name tag ("Hello my name is Erin"), a printed card. Same room, different shirt and framing each video.
+  - **Weakest = abstract self-help with no hook person or event** (learning tips, the freestyle demo).
+  - The "welcome" video is her biggest: a pinned intro that tells new viewers what the page is. Worth making for Elena.
 
 ## Numbers to remember
 - @matildehere, last 30 days (Nov 2026): silent table 461K, list 172K, puzzle 19K, talking explainers 7-14K. Hits had very low like/view ratios (~0.4%), so reach came from saves/shares.
