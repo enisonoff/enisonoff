@@ -28,6 +28,9 @@ Add to this file whenever she gives a note that applies beyond one video.
 - Full-frame cutaways inspired by Cleo Abrams: a space render the camera races across following a beam of light; a chatbot question that becomes a ball of energy flying to a space data center; a GPU rack that builds until "$44B" pops on top.
 - No white cards, no logos-on-cards, no push-in/zoom transitions, no Starship drawing.
 
+## Title cards
+- Default: zauey style. Big lowercase white sans (Inter 800), 2 lines, small "(in 3 minutes)" under it, low on her chest, no box. She didn't like the neon panel or the copper torn-paper version.
+
 ## Brand
 - Her logo blue is #1803BB (deep royal blue, white "on/offline" type). Use it for title cards and headline accents so videos read as hers in the grid.
 
