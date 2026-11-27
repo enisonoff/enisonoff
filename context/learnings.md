@@ -118,6 +118,15 @@ Our read (hypotheses until we see her retention graph):
 - **Plain delivery:** short declarative sentences, no jokes; the facts carry it. Elena's version adds one dry line per beat, not more.
 - **Length ~75 s, ~180 words.**
 
+## @erinmerylstudy "words you've never heard" (Nov 2026)
+87 s, ~3K likes, 112 comments. Elena loves the scripting and editing.
+- **Hook = an expert claim plus a promise:** "Linguists argue that the limits of our vocabulary are the limits of our understanding of the world. So here are some very interesting words... you've probably never come across."
+- **The ending calls back to that opening claim** ("expand your description... expand your perception"), so it feels finished. The CTA "let me know if you want a part two" drives comments; posting the part two is still a risk, per Matilde.
+- **Fixed rhythm:** 15 items, about 5 s each, same pattern every time: the word, then a one-line definition. Easy to follow, saveable.
+- **Her cutout stays on screen in front of a full-bleed mood image** that changes with every item (fire for limerence, a crowd for sonder, rain-soaked forest for petrichor). The background changes every ~5 s and her face never leaves. A dictionary card (the word as a headline, the definition, one phrase highlighted yellow) sits at chest height; small bold captions sit below.
+- Calm, even delivery with expressive hands. No jokes needed; the images carry the mood.
+- **For Elena:** (1) keep her cutout in front of the evidence and backdrops on list beats instead of cutting away; (2) a dictionary card for jargon (zero-day, patch, pre-positioning); (3) bookend: the last line answers the first; (4) series idea: "tech words you'll hear this year and what they mean," rotating backdrops.
+
 ## Numbers to remember
 - @matildehere, last 30 days (Nov 2026): silent table 461K, list 172K, puzzle 19K, talking explainers 7-14K. Hits had very low like/view ratios (~0.4%), so reach came from saves/shares.
 - @morningbrew Jensen explainer: ~20K likes, 85 s.

@@ -35,6 +35,8 @@ Add to this file whenever she gives a note that applies beyond one video.
 - Filming: darker room, one warm lamp, mic in frame if possible, centered, eye level. Avoid late-night bed shots.
 - Her addition: one dry line per beat, max.
 
+- Push-ins: quick 10-15% punch-in cuts on her face for emphasis lines only (thesis, dry beat, proof, button). Never as zoom transitions into graphics.
+
 ## Title cards (older)
 - Default: zauey style. Big lowercase white sans (Inter 800), 2 lines, small "(in 3 minutes)" under it, low on her chest, no box. She didn't like the neon panel or the copper torn-paper version.
 
