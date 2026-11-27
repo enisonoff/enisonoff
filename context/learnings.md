@@ -106,6 +106,17 @@ Our read (hypotheses until we see her retention graph):
 6. **A long single shot with fewer than one visual change per ~10 s.**
 7. **Competing with the event itself** (posting a think-piece during the event when people are busy doing it). Post the day before or the day after.
 
+## @interval_news "178 websites hit in cyberattack" (Nov 2026), the house style going forward
+76 s, ~15K likes, 126 comments. Elena wants to copy the look and pace, with her own dry humor on top.
+- **Hook = big number + direct stakes + a promise:** "178 major websites were compromised... Here's a list of the top websites you may have visited and a few critical things you need to do."
+- **Utility over opinion:** a list people scan for themselves (did I use Zoom? IKEA?) plus one concrete action (update your phone, check your bank). This is what gets shares ("tell your friends and family").
+- **Title card:** left-aligned, white, 2 lines, Helvetica-style grotesk (free match: Inter Tight 500, tight tracking), with a smaller 2-line subtitle under it. No box, no shadow, no color.
+- **Captions:** ONE word at a time, small white sans, centered at chest height. Quiet, never competes with the face.
+- **Evidence as the graphic:** full-width screenshots of the actual source article (Newsweek) and screen recordings scrolling the real list on a phone. No illustrations, no animation. That's where the trust comes from.
+- **Set:** dark, warm practical light, podcast mic in frame, centered medium close-up, eye contact. Looks like a news desk without trying.
+- **Plain delivery:** short declarative sentences, no jokes; the facts carry it. Elena's version adds one dry line per beat, not more.
+- **Length ~75 s, ~180 words.**
+
 ## Numbers to remember
 - @matildehere, last 30 days (Nov 2026): silent table 461K, list 172K, puzzle 19K, talking explainers 7-14K. Hits had very low like/view ratios (~0.4%), so reach came from saves/shares.
 - @morningbrew Jensen explainer: ~20K likes, 85 s.

@@ -28,7 +28,14 @@ Add to this file whenever she gives a note that applies beyond one video.
 - Full-frame cutaways inspired by Cleo Abrams: a space render the camera races across following a beam of light; a chatbot question that becomes a ball of energy flying to a space data center; a GPU rack that builds until "$44B" pops on top.
 - No white cards, no logos-on-cards, no push-in/zoom transitions, no Starship drawing.
 
-## Title cards
+## House style (from Dec 2026): Interval news look
+- Title: left-aligned white Inter Tight 500, tight tracking, 2 lines + smaller 2-line subtitle. No box, no shadow, no color.
+- Captions: one word at a time, small white Inter Tight, centered at chest height.
+- Graphics = evidence: full-width screenshots of the real source article, phone screen recordings of the real list/page. Ask Elena for screenshots or record them; never mock up an article.
+- Filming: darker room, one warm lamp, mic in frame if possible, centered, eye level. Avoid late-night bed shots.
+- Her addition: one dry line per beat, max.
+
+## Title cards (older)
 - Default: zauey style. Big lowercase white sans (Inter 800), 2 lines, small "(in 3 minutes)" under it, low on her chest, no box. She didn't like the neon panel or the copper torn-paper version.
 
 ## Brand
