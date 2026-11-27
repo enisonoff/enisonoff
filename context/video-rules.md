@@ -7,6 +7,7 @@ Add to this file whenever she gives a note that applies beyond one video.
 - Re-storyboard after notes. A low-quality preview before the full render is welcome.
 - Check every render for flashes and sync before sending (edit-video skill, `check_render.py`).
 - Don't cut her words unless she asks.
+- Joins should be snappy: trim dead air and breaths at every cut to ~0.04 s lead / 0.07 s tail (clean-cut `trim_edges`). Cut redundant lines that restate the previous one.
 - Cold open: if her best line moves to the top as the hook, don't play it again at the end. End on the line before it.
 
 ## Frame and placement

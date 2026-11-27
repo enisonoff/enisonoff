@@ -43,10 +43,23 @@ def tighten(k, s, e):
             run = None
     out.append((cur, e)); return [(x, y) for x, y in out if y - x > 0.04]
 
+EDGE_DB = -42.0   # speech onset/offset for trimming dead air at segment joins
+def trim_edges(k, s, e):
+    """Pull a segment's start/end in to the first/last speech, keeping a short lead (0.04 s) and tail (0.07 s).
+    Removes the breaths and pauses that pile up at joins ("make it snappier")."""
+    db = AUD[k][1]; a, b = int(s * 100), int(e * 100)
+    i = a
+    while i < b and db[i] <= EDGE_DB: i += 1
+    j = b - 1
+    while j > i and db[j] <= EDGE_DB: j -= 1
+    if j <= i: return s, e
+    return max(s, i / 100 - 0.04), min(e, (j + 1) / 100 + 0.07)
+
 def plan():
     P = []
     for seg in E['segs']:
         k, s, e = seg[0], edge(seg[0], seg[1]), edge(seg[0], seg[2])
+        if E.get('trim_edges'): s, e = trim_edges(k, s, e)
         for x, y in tighten(k, s, e):
             f0 = int(round((x + CL[k]['offset']) * FPS)); f1 = int(round((y + CL[k]['offset']) * FPS))
             if f1 <= f0: continue
