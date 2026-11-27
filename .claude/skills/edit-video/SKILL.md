@@ -67,3 +67,6 @@ cd $S/fonts && for p in montserrat anton instrument-serif inter jetbrains-mono; 
 npm pack simple-icons   # logos (older versions, e.g. 9.21.0, still have openai)
 ```
 Wikimedia rate-limits hard here (429s): ask Elena for photos rather than waiting on downloads.
+
+## Render gotchas
+- Never let two renders write the same output file. A queued "wait, then render" job survived an attempted kill, started alongside the new render, and corrupted the MP4 (the outage video, Nov 27). Before every full render, run `pgrep -af render` and make sure nothing else is running. Give each version a new filename (`-v4`, `-v5`). After rendering, check it with `ffmpeg -v error -xerror -i out.mp4 -f null -`.
