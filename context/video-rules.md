@@ -38,6 +38,9 @@ Add to this file whenever she gives a note that applies beyond one video.
 
 - Push-ins: quick 10-15% punch-in cuts on her face for emphasis lines only (thesis, dry beat, proof, button). Never as zoom transitions into graphics.
 
+- Emphasis words are lowercase (never all caps): clean grotesk (Inter Tight 600) in cream/white/red with a soft glow, paired with a thin italic serif line (Cormorant Garamond Light). Big words sit BEHIND her (cutout mask), never over her face.
+- Grade her footage: darken/desaturate the wall, warm skin, contrast, vignette, grain. Black grain cards for thesis lines and lists.
+
 ## Title cards (older)
 - Default: zauey style. Big lowercase white sans (Inter 800), 2 lines, small "(in 3 minutes)" under it, low on her chest, no box. She didn't like the neon panel or the copper torn-paper version.
 
