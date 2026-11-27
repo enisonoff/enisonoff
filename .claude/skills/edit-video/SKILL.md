@@ -30,6 +30,7 @@ Read `context/video-rules.md` first. It holds every rule she has given. This fil
 Every number, quote and headline on screen needs a source found this session. Search, don't recall. Use exact figures (Forbes $33.7B, not "$34B"). If a headline she sends can't be found, ask which outlet before using it. Show "approx." or the intraday caveat when a number isn't a close.
 
 ### 3. Beat plan
+- **Retakes:** keep the LAST full take of every line and cut gaps to <=0.1 s. Whisper (with default settings) silently drops repeated takes, so transcribe with `condition_on_previous_text=False`, check each splice zone in a short window with its speech bursts (energy > -40 dB), set edges at burst boundaries or the quietest 10 ms, then **transcribe the finished cut again** and read it end to end: every sentence whole, no restarts, no clipped last syllable (e.g. "suck-" for "sucker").
 - **Don't cut her words** unless she asks. If she asks to cut a repeat, re-time that stretch with `--model medium.en` and cut in the silence between words (small.en edges were 0.2 s off and left half a word in).
 - Pick graphics only where they add something. Aim for long stretches of just her; she called 30 graphics in 2:45 "busy." Flag anything that restates what she says and offer to cut it.
 - Pull reference reels she sends with Scrape Creators (`api.scrapecreators.com/v2/instagram/post`, header `x-api-key`; the key is in the environment, never print it). If `/reel/` 404s, retry `/p/`.
