@@ -86,6 +86,26 @@ Median ~119K plays. Top: AI "memory" explainer 2.2M (Jun), "token minimizing, no
 - **Part 2s underperform** (134K -> 88K). Sponsored/how-I-use-it and community posts are her lowest.
 - **Comment keyword CTA** on product posts ("Comment BUILD and I'll send it").
 
+## Post-mortem: "Black Friday as you know it is over" (Nov 27 2026), performed poorly
+Our read (hypotheses until we see her retention graph):
+- **Inside-baseball premise.** The story was an industry fight (agentic commerce, ad models, Amazon-Meta talks) about a behavior most viewers don't have: only ~7% start shopping with AI. Nothing in it touched what the viewer does today.
+- **The hook promised something the video didn't deliver.** "Black Friday is over" plus two CEO faces suggests drama or deals; the body was a policy explainer.
+- **Too many threads.** About 12 beats (credentials, subway ad, chart, Gemini story, Amazon's own bot, Walmart, Google/Meta, OpenAI, Anthropic, the talks, the "new manipulation", advice). Each revision round added facts to be "maximally informative"; none cut.
+- **A hedged payoff.** The twist rested on "reportedly" and "might", so it landed soft.
+- **Too long for the payload:** 3:01, her longest. Her best (Venn) was shorter and had one clear verdict.
+- **Visually flat:** one static late-night shot in bed and 4 graphics in 3 minutes, against the ~3 s visual-change learning. ("Simplest version" was her call on a tired night; still a factor.)
+- **Timing:** posted on Black Friday itself, when the audience is shopping, not watching explainers about shopping.
+- Claude recommended this topic (scored it 13/14). The scoring missed "does the viewer already do this?" and "can it be one sentence?".
+
+## Red flags: stop and say so when a new idea shows these
+1. **The viewer doesn't already do the thing.** If the story is about a behavior most people don't have yet (AI agents shopping, a niche tool), it needs a personal stake in the first 5 s or it's a pass.
+2. **It can't be said in one sentence with one villain or one reversal.** "Amazon blocks bots but has its own" is one; "the AI shopping ecosystem's ad incentives" is not.
+3. **More than ~6 beats, or the script grows past ~220 words / ~90 s for a news take.** Each revision should cut a beat for every fact it adds.
+4. **The payoff depends on "reportedly", "might", or a forecast.** Fine as a detail; never as the twist.
+5. **The hook names a big claim the body doesn't prove fast.** The proof has to land within ~15 s.
+6. **A long single shot with fewer than one visual change per ~10 s.**
+7. **Competing with the event itself** (posting a think-piece during the event when people are busy doing it). Post the day before or the day after.
+
 ## Numbers to remember
 - @matildehere, last 30 days (Nov 2026): silent table 461K, list 172K, puzzle 19K, talking explainers 7-14K. Hits had very low like/view ratios (~0.4%), so reach came from saves/shares.
 - @morningbrew Jensen explainer: ~20K likes, 85 s.
