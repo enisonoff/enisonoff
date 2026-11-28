@@ -64,3 +64,10 @@ Add to this file whenever she gives a note that applies beyond one video.
 
 ## Fonts for the next video
 Try the CapCut-style trio: Gloock caps + Great Vibes script + DM Mono small line (Google Fonts). Show 2 frames on her footage before using it.
+
+- Words behind her head sit just above the highest point of her head in that beat (auto-placed from the cutout, tucked ~25 px into her hair); she couldn't read "all sides" / "dark ages" when her head covered the middle.
+- A push-in must end exactly on a cut. Ending it a few frames after the cut flashes the new shot zoomed in ("weird frame" at "if a hacker is saying that").
+- When a line has a B-roll picture, put its words on the picture, not on her and then the picture (pennywise on the sewer drain).
+- Numbers that change should move: 948 rolls down to 61 and turns red, rather than two static labels.
+- Explanations need a literal visual of the analogy (a list of broken locks with a PUBLIC stamp beat a dark hallway, which she found confusing).
+- End beat stays on her face with the final words behind her, not on a black card.
