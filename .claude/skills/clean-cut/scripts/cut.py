@@ -6,6 +6,7 @@ EDL.json:
   "workdir": "/path/to/work",                     # holds the clips' .wav (48 kHz mono) and .mov, and the outputs
   "clips": {"a": {"video": "a.mov", "wav": "a.wav", "offset": 0.077}},   # offset = audio start_time from ffprobe
   "maxgap": 0.06,                                 # longest pause left between words (s)
+  "lead": 0.04, "tail": 0.07,                     # with trim_edges: speech kept before/after each join (house style: 0.032 / 0.056 with maxgap 0.08)
   "segs": [["a", 6.04, [11.98, 12.14], "So why is everything... finding holes"], ...]
 }
 Each seg: clip, start, end, note. A number is an exact edge (audio time, checked with zones.py);
@@ -53,7 +54,7 @@ def trim_edges(k, s, e):
     j = b - 1
     while j > i and db[j] <= EDGE_DB: j -= 1
     if j <= i: return s, e
-    return max(s, i / 100 - 0.04), min(e, (j + 1) / 100 + 0.07)
+    return max(s, i / 100 - E.get('lead', 0.04)), min(e, (j + 1) / 100 + E.get('tail', 0.07))
 
 def plan():
     P = []

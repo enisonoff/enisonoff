@@ -3,6 +3,8 @@ name: edit-video
 description: Edit one of Elena's vertical talking-head news videos for Instagram, the way her approved edits were built (SpaceX chip loan, Jensen winners & losers). Plan from the transcript, design-check, storyboard and wait for her OK, send a low-quality preview, then a full-quality render that passes the flash and sync checks. Use when she shares a raw video or Drive link and says "edit this", "plan this edit", "storyboard", "add graphics", or gives notes on a storyboard, preview or render.
 ---
 
+> **Default look: `house-style` skill** (approved Nov 2026). Use its renderer and beat vocabulary unless she names another style.
+
 # Edit video
 
 Read `context/video-rules.md` first. It holds every rule she has given. This file is the order of work.
