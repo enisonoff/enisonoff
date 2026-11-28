@@ -31,7 +31,7 @@ Add to this file whenever she gives a note that applies beyond one video.
 
 ## House style (from Dec 2026): Interval news look
 - Title: left-aligned white Inter Tight 500, tight tracking, 2 lines + smaller 2-line subtitle. No box, no shadow, no color.
-- Captions (outage video on): bottom subtitles in Edits' "Classic" look with kerning -1 and the bounce effect. Stand-in: Inter Tight 700, 64 px, tracking -3%, white with a black stroke, lowercase, up to 3 words per line, each word bounces on as she says it (0.5 -> 1.1 -> 1.0 with a small hop, 0.22 s).
+- Captions (from outage v6, after @danimrodriguez's reel): sentence case, white, NO outline, soft drop shadow, Inter Tight 700 at 74 px with tight tracking, short phrases (up to ~6 words, 1-2 balanced lines, no one-word leftovers) that pop in whole over 4 frames on her voice. Chest height on her footage, straddling the divider on split screens. Replaces the earlier per-word Classic bounce (uneven mid-bounce, outline looked like a template).
 - Graphics = evidence: full-width screenshots of the real source article, phone screen recordings of the real list/page. Ask Elena for screenshots or record them; never mock up an article.
 - Filming: darker room, one warm lamp, mic in frame if possible, centered, eye level. Avoid late-night bed shots.
 - Her addition: one dry line per beat, max.
